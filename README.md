@@ -1,1 +1,1 @@
-# IBM-Call-for-code
+For detailed information about the demo we used for competition, please refer to my thesis paper:  Y.Wei (2012) "Estimating stream flow from watersheds with large reservoirs”  Montezuma Publishing, San Diego State University. Web Download: http://sdsu-dspace.calstate.edu/handle/10211.10/2218
